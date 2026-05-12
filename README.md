@@ -17,26 +17,26 @@ This course will run from Monday morning to Wednesday lunchtime, at which point 
 10:00 [Lecture 1: Concepts](./slides/L01-concepts.pdf)  
 10:45 [Lecture 2: OpenMP Intro](./slides/L02-OpenMPintroduction.pdf)  
 11:30 Break  
-11:45 Exercise 1: Hello, World  
+11:45 [Exercise 1: Hello, World](./exercises/OpenMPIntroExercises.pdf)  
 12:30 Lunch  
 13:30 [Lecture 3: Parallel regions](./slides/L03-parallelregions.pdf)  
-14:15 Exercise 2: Mandelbrot set  
+14:15 [Exercise 2: Mandelbrot set](./exercises/OpenMPIntroExercises.pdf)  
 15:00 Break  
 15:30 [Lecture 4: Worksharing](./slides/L04-worksharing.pdf)  
-16:15 Exercise 3: Mandelbrot again (exercise 4 extension)  
+16:15 [Exercise 3: Mandelbrot again](./exercises/OpenMPIntroExercises.pdf)  
 17:00 Finish  
 
 ### Tuesday 26th May
 
 10:00 [Lecture 5: Synchronisation](./slides/L05-synchronisation.pdf)  
-10:45 Exercise: 5: Molecular dynamics  
+10:45 [Exercise: 5: Molecular dynamics](./exercises/OpenMPIntroExercises.pdf)  
 11:30 Break  
 11:45 [Lecture 6: Further topics](./slides/L06-furthertopics.pdf)  
 12:30 Lunch  
 13:30 [Lecture 7: Tips, tricks and gotchas](./slides/L07-TipsTricksGotchas.pdf)  
 14:15 [Lecture 8: OpenMP performance](./slides/L09-GPU-architectures.pdf)  
 15:00 Break  
-15:30 Exercise 6: Molecular dynamics II, optional Exercise 7: ADI, and finishing other exercises  
+15:30 [Exercise 6: Molecular dynamics II, optional Exercise 7: ADI, and finishing other exercises](./exercises/OpenMPIntroExercises.pdf)  
 17:00 Finish  
 
 ### Wednesay 27th May
@@ -45,5 +45,5 @@ This course will run from Monday morning to Wednesday lunchtime, at which point 
 10:15 [Lecture 10: Introduction to OpenMP offloading](./slides/L10-Introduction-to-OpenMP-GPU-Offload.pdf)  
 11:00 Break  
 11:15 [Lecture 11: OpenMP data movement](./slides/L11-Introduction-to-OpenMP-data-movement.pdf)  
-12:00 Exercise 8: Calculating pi on the GPU  
+12:00 [Exercise 8: Calculating pi on the GPU](./exercises/pi_instructions.pdf)  
 12:30 Lunch  
